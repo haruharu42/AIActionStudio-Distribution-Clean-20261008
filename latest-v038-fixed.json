@@ -1,0 +1,7 @@
+{
+  "version": "0.3.9",
+  "package_url": "https://raw.githubusercontent.com/haruharu42/AIArticleStudio-Updates/main/updates/AIArticleStudio_Update_v0.3.9_WebAIModelCleanup_PublishLinks.zip",
+  "sha256": "00C387701831A3F3E9663783F9BD16CA87251931AE2388FE7BE9AA795050C6F0",
+  "channel": "stable",
+  "notes": "Standard ChatGPT Web choices exclude Sol Pro/Terra/Luna; quality and model dropdowns sync both ways; note/Tips/Brain launch buttons added."
+}
